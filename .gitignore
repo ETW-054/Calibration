@@ -2,6 +2,10 @@
 front_pocket/
 pocket/
 swing/
+*.npy
+*.csv
+*.pt
+*.rar
 *.zip
 
 # Byte-compiled / optimized / DLL files
