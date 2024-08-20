@@ -1,8 +1,8 @@
 *__MACOSX
-front_pocket/
-pocket/
-swing/
-R403/Experiments/*
+*
+!R403/transformer-upload.ipynb
+!readme.md
+
 *.npy
 *.csv
 *.pt
