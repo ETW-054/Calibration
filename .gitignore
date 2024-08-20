@@ -2,6 +2,7 @@
 front_pocket/
 pocket/
 swing/
+R403/Experiments/*
 *.npy
 *.csv
 *.pt
